@@ -19,4 +19,4 @@ jobs:
           -X POST -H "Authorization: Bearer ${{ secrets.DEVTOOLS_AUTO_COMMENT_TOKEN }}" \
           -H "Accept: application/vnd.github+json" \
           https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/comments \
-          -d '{"body":"Hi @${{ github.event.issue.user.login }}, thanks for your issue! We will look into it shortly. Please send an email to toolspeed@163.com to tell us your **toolspeed account**. We will extend your plan for **three months**."}'
+          -d '{"body":"Hi  @${{ github.event.issue.user.login }}, thanks for your issue! We will look into it shortly. \r\n\r\nPlease send an email to toolspeed@163.com to tell us your [toolspeed account](https://www.devtools.nlnet.net). We will extend your plan for **three months**."}'
