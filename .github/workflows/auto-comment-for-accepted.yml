@@ -11,7 +11,7 @@ jobs:
     - name: Respond to label
       if: contains(github.event.label.name, 'accepted')
       run: |
-        curl -L \
+        curl \
           -X POST 
           -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
           -H "Accept: application/vnd.github+json" \
