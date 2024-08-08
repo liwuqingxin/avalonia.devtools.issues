@@ -1,13 +1,9 @@
-# avalonia.devtools
+![Brand](https://github.com/user-attachments/assets/356a826c-43e0-42b4-a97f-8908b468e8c3)
 
-<div>
-    <div style="display:flex; justify-content:center;width:100%;">
-        <img src="./images/company-logo@1x.png" style="width:48px;height:48px;display:inline;"/>
-        <img src="./images/devtools-logo@1x.png" style="width:48px;height:48px;display:inline;"/>
-    </div>
-<div>
+# DevTools for Avalonia
 
-We collect ideas and issues for [Avalonia DevTools](https://www.devtools.nlnet.net/) here.
+- We collect ideas and accept issues for [DevTools for Avalonia](https://www.devtools.nlnet.net/) here.
 
-[Github issues](https://github.com/liwuqingxin/avalonia.devtools.issues/issues/new/choose)
-[Gitee issues](https://gitee.com/NLNet/avalonia.devtools.issues/issues/new/choose)
+- File an issues in [github](https://github.com/liwuqingxin/avalonia.devtools.issues/issues/new/choose).
+
+- File an issues in [gitee](https://gitee.com/NLNet/avalonia.devtools.issues/issues/new/choose).
